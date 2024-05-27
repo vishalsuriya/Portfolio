@@ -1,0 +1,37 @@
+.about{
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+}
+.about .left{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 350px;
+}
+.about .left p{
+    margin:1.2rem 0 ;
+    text-align: left;
+}
+.about.right{
+    max-width: 700px;
+}
+.img-container{
+  position:relative;
+  right: 200px;
+   width: 200px;
+}
+@media only screen and (max-width: 768px) {
+    .about .left {
+        max-width: 100%; 
+    }
+
+    .img-container {
+        right: 0; 
+        margin-top: 1.5rem; 
+    }
+}
