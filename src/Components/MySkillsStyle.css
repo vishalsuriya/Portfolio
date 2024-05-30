@@ -86,7 +86,7 @@ h3{
       width: 0%;
     }
     100% {
-      width: 90%;
+      width: 60%;
     }
   }
   @keyframes dsa {
@@ -94,7 +94,7 @@ h3{
       width: 0%;
     }
     100% {
-      width: 60%;
+      width: 50%;
     }
   }
   @keyframes html {
@@ -102,7 +102,7 @@ h3{
       width: 0%;
     }
     100% {
-      width: 80%;
+      width: 70%;
     }
   }
   @keyframes css {
@@ -110,7 +110,7 @@ h3{
       width: 0%;
     }
     100% {
-      width: 75%;
+      width: 65%;
     }
   }
   @keyframes javascript {
@@ -126,7 +126,7 @@ h3{
       width: 0%;
     }
     100% {
-      width: 85%;
+      width: 70%;
     }
   }
   @keyframes nodejs {
