@@ -153,3 +153,31 @@ h3{
       width: 60%;
     }
   }
+ @media (min-width: 768px) and (max-width: 1199px) {
+    .skill {
+        width: 70%;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .skill {
+        width: 85%;
+    }
+}
+
+@media (max-width: 575px) {
+    .skill {
+        width: 95%;
+        padding: 15px;
+    }
+
+    .skill-item {
+        margin: 15px 0;
+        padding: 5px;
+    }
+
+    .bar {
+        height: 15px;
+    }
+}
