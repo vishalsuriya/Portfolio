@@ -20,7 +20,7 @@ const ProjectData = [
               imgsrc :pro3,
               title : "ElectZone-Ecommerce Website",
               text : "Collaboratively developed an eCommerce Website tailored for electronic items,focusing on user-friendliness and designed to cater specifically to college students. This project was a team effort.",
-              view : "https://github.com/vishalsuriya/ElectZone",
+              view : "https://elect-zone.vercel.app/",
               source :"https://github.com/vishalsuriya/ElectZone"
              }
 ];

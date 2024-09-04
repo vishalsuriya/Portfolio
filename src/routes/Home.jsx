@@ -17,7 +17,7 @@ function home() {
       <Work />
       <Hero2 heading = "My Skills."/>
       <MySkills/>
-      <Hero2 heading="ABOUT ME." text="Im a friendly SoftWare Developer."/>
+      <Hero2 heading="ABOUT ME." text="Im a friendly FullStack Developer."/>
       <AboutContent />
       <Hero2 heading="CONTACT." text="Lets have a chat"/>
       <Form />
