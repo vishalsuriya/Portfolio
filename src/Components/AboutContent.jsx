@@ -7,7 +7,7 @@ function AboutContent ()  {
     <div className="about">
 <div className="left">
 <h1>Who Am I?</h1>
-<p>Hello, I'm Vishal Suriya, a passionate individual from Namakkal currently pursuing my Bachelor's in Electrical and Electronics Engineering (EEE) at Karpagam College of Engineering. While my academic focus lies in electrical systems and engineering principles, my true passion lies in software development. </p>
+<p>Hello, I'm Vishal Suriya, a passionate individual from Namakkal currently pursuing my Bachelor's in Electrical and Electronics Engineering (EEE) at Karpagam College of Engineering. While my academic focus lies in electrical systems and engineering principles, my true passion lies in FullStack development. </p>
 <Link to="/Contact">
     <button className="btn">Contact</button>
 </Link>

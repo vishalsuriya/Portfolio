@@ -1,13 +1,13 @@
-import pro1 from "../assets/project1.avif";
+import pro1 from "../assets/pet Adoption.png";
 import pro2 from "../assets/project2.png";
 import pro3 from "../assets/p3.png";
 const ProjectData = [
        {
         imgsrc:pro1,
-        title: "Sports Management System",
-        text : "Developed a Java-based Sports Management System with MySQLintegration, facilitating online event registration. Implemented a adminmodule for efficient record maintenance.",
-        view : "https://github.com/vishalsuriya/Sports-Management-System",
-        source : "https://github.com/vishalsuriya/Sports-Management-System"
+        title: "Pet Adoption System",
+        text : "SystemDeveloped a pet adoption system with features for admin to managepets through CRUD operations and for users to adopt pets based ontheir needs. Streamlined the adoption process, enhancing both adminand user experience.",
+        view : "https://petpalsconnect.netlify.app/",
+        source : "https://github.com/vishalsuriya/Pet-Adoption-System"
        },
        {
         imgsrc :pro2,
