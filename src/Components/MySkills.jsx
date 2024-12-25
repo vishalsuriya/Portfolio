@@ -8,17 +8,12 @@ function MySkills(){
         <li><h3>JAVA</h3>
         <span className="bar"><span className="java"></span></span>
         </li>
-        <li><h3>DATA STRUCTURES AND ALGORITHMS</h3>
-        <span className="bar"><span className="dsa"></span></span>
-        </li>
-        <li><h3>HTML</h3>
-        <span className="bar"><span className="html"></span></span>
+        <li><h3>REACT-NATIVE
+        </h3>
+        <span className="bar"><span className="native"></span></span>
         </li>
         <li><h3>CSS</h3>
         <span className="bar"><span className="css"></span></span>
-        </li>
-        <li><h3>JAVASCRIPT</h3>
-        <span className="bar"><span className="javascript"></span></span>
         </li>
         <li><h3>REACTJS</h3>
         <span className="bar"><span className="react"></span></span>
@@ -31,6 +26,9 @@ function MySkills(){
         </li>
         <li><h3>MONGODB</h3>
         <span className="bar"><span className="mongodb"></span></span>
+        </li>
+        <li><h3>POSTGRESQL</h3>
+        <span className="bar"><span className="postgres"></span></span>
         </li>
     </div>
     </div>

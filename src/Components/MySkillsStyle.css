@@ -49,21 +49,18 @@ h3{
     width: 0%;
     animation: java 3s forwards;
   }
-.dsa{
+.native{
     width: 0%;
-    animation: dsa 3s forwards;
+    animation: native 3s forwards;
   }
-.html{
-    width: 0%;
-    animation: html 3s forwards;
-  }
+
 .css{
     width: 0%;
     animation: css 3s forwards;
   }
-.javascript {
+.postgres {
     width: 0%;
-    animation: javascript 3s forwards;
+    animation: postgres 3s forwards;
   }
 .react{
     width: 0%;
@@ -86,23 +83,15 @@ h3{
       width: 0%;
     }
     100% {
-      width: 90%;
-    }
-  }
-  @keyframes dsa {
-    0% {
-      width: 0%;
-    }
-    100% {
       width: 60%;
     }
   }
-  @keyframes html {
+  @keyframes native {
     0% {
       width: 0%;
     }
     100% {
-      width: 80%;
+      width: 40%;
     }
   }
   @keyframes css {
@@ -110,15 +99,15 @@ h3{
       width: 0%;
     }
     100% {
-      width: 75%;
+      width: 35%;
     }
   }
-  @keyframes javascript {
+  @keyframes postgres {
     0% {
       width: 0%;
     }
     100% {
-      width: 70%;
+      width: 45%;
     }
   }
   @keyframes react{
@@ -126,7 +115,7 @@ h3{
       width: 0%;
     }
     100% {
-      width: 85%;
+      width: 65%;
     }
   }
   @keyframes nodejs {
@@ -142,7 +131,7 @@ h3{
       width: 0%;
     }
     100% {
-      width: 55%;
+      width: 50%;
     }
   }
   @keyframes mongodb {
@@ -153,3 +142,31 @@ h3{
       width: 60%;
     }
   }
+  @media (min-width: 768px) and (max-width: 1199px) {
+    .skill {
+        width: 70%;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .skill {
+        width: 85%;
+    }
+}
+
+@media (max-width: 575px) {
+    .skill {
+        width: 95%;
+        padding: 15px;
+    }
+
+    .skill-item {
+        margin: 15px 0;
+        padding: 5px;
+    }
+
+    .bar {
+        height: 15px;
+    }
+}

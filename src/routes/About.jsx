@@ -7,7 +7,7 @@ function About() {
   return (
     <div>
       <Navbar />
-      <Hero2 heading="ABOUT." text="Im a friendly Full-Stack Developer."/>
+      <Hero2 heading="ABOUT." text="Im a friendly FullStack Developer."/>
       <AboutContent />
       <Footer />
     </div>

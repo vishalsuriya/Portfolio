@@ -19,7 +19,7 @@ function Footer()  {
             </div> 
         <div className="right">
           <h4>About Me</h4>
-          <p>Iam vishalsuriya a Software Developer</p>
+          <p>Iam vishalsuriya a FullStack Developer</p>
           <div className="social">
         <a href="https://github.com/vishalsuriya"><h4><FaGithub size={30} style={{color:"white" ,marginRight:"1rem"}}/></h4></a> 
          <a href="https://www.linkedin.com/in/vishalsuriya-ng-33153b260/" ><h4><FaLinkedin size={30} style={{color:"white" ,marginRight:"1rem"}}/></h4></a>
