@@ -84,6 +84,17 @@ h3{
     }
     100% {
       width: 60%;
+<<<<<<< HEAD
+=======
+    }
+  }
+  @keyframes dsa {
+    0% {
+      width: 0%;
+    }
+    100% {
+      width: 50%;
+>>>>>>> bc3513fd2fa7c325024f7878a0e972ed30ed2755
     }
   }
   @keyframes native {
@@ -91,7 +102,11 @@ h3{
       width: 0%;
     }
     100% {
+<<<<<<< HEAD
       width: 40%;
+=======
+      width: 70%;
+>>>>>>> bc3513fd2fa7c325024f7878a0e972ed30ed2755
     }
   }
   @keyframes css {
@@ -99,7 +114,11 @@ h3{
       width: 0%;
     }
     100% {
+<<<<<<< HEAD
       width: 35%;
+=======
+      width: 65%;
+>>>>>>> bc3513fd2fa7c325024f7878a0e972ed30ed2755
     }
   }
   @keyframes postgres {
@@ -115,7 +134,11 @@ h3{
       width: 0%;
     }
     100% {
+<<<<<<< HEAD
       width: 65%;
+=======
+      width: 70%;
+>>>>>>> bc3513fd2fa7c325024f7878a0e972ed30ed2755
     }
   }
   @keyframes nodejs {
@@ -142,7 +165,11 @@ h3{
       width: 60%;
     }
   }
+<<<<<<< HEAD
   @media (min-width: 768px) and (max-width: 1199px) {
+=======
+ @media (min-width: 768px) and (max-width: 1199px) {
+>>>>>>> bc3513fd2fa7c325024f7878a0e972ed30ed2755
     .skill {
         width: 70%;
     }
@@ -169,4 +196,8 @@ h3{
     .bar {
         height: 15px;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> bc3513fd2fa7c325024f7878a0e972ed30ed2755
